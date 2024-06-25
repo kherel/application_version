@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 class VersionData implements Comparable<VersionData> {
   final int? buildNumber;
   final String semantic;
