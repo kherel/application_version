@@ -1,5 +1,7 @@
 # application_version
 
+[![Pub](https://img.shields.io/pub/v/application_version.svg)](https://pub.dartlang.org/packages/application_version)
+
 A Flutter plugin to retrieve the application's version and build number for both Android and iOS.
 
 ## Features
